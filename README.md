@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**arrejoria/arrejoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, unos mates?
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Soy un Desarrollador Web que viene escribiendo código dede el 2019 a inicios de mi carrera de "Desarrollo y Diseño Web". Tengo solidos conocimientos con Wordpress, PHP y me encanta Javascript!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ¡Hola, mundo! 👋
+
+¡Bienvenidos a mi perfil de GitHub! Aquí encontrarás un vistazo de quién soy y algunos proyectos que quiza encuentres emocionantes..
+
+## 🚀 Sobre mí
+
+Soy un Desarrollador Web que viene escribiendo código dede el 2019 a inicios de mi carrera de "Desarrollo y Diseño Web". Tengo solidos conocimientos con Wordpress, PHP y me encanta Javascript!
+
+## Tecnologías favoritas
+
+Aquí hay algunas de las tecnologías y lenguajes de programación con las que disfruto trabajando:
+
+- Wordpress
+- PHP, Laravel
+- MySQL
+- Javascript
+- HTML, CSS, SASS, Bootstrap
+
+## No mis favoritas pero siempre se hace lo mejor!
+- React Js
+- Jquery
+- Tailwind
+## Contacto
+
+¡Conéctate conmigo en las redes sociales!
+
+- LinkedIn: [arr-dev](https://www.linkedin.com/in/arr-dev)
+
+¡Gracias por visitar mi perfil! 😄
