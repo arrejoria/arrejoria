@@ -4,7 +4,7 @@
 )](mailto:arrejoria.work@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/arrejoria?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=arrejoria)
-[![Website](https://img.shields.io/website?up_message=%20%7C%20%20online&up_color=%23001f47&down_message=offline&down_color=lightgrey&url=https%3A%2F%2Farrejorialucas.com&style=flat&logoColor=black&label=Portfolio&labelColor=%23001f47&link=https%3A%2F%2Fwww.arrejoria.dev)](https://arrejoria.dev)
+[![Website](https://img.shields.io/website?up_message=%20%7C%20%20online&up_color=%23001f47&down_message=offline&down_color=lightgrey&url=https%3A%2F%2Farrejoria.dev&style=flat&logoColor=black&label=Portfolio&labelColor=%23001f47&link=https%3A%2F%2Fwww.arrejoria.dev)](https://arrejoria.dev)
 
 ## Hola, unos mates?
 
